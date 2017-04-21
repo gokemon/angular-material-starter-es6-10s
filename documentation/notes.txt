@@ -1,0 +1,8 @@
+
+
+angular-material-starter-es6-10s
+skeleton application using angular-material
+
+https://material.angularjs.org/latest/getting-started
+
+https://github.com/angular/material-start/tree/es6-tutorial
